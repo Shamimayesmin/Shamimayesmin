@@ -1,4 +1,4 @@
-<img src="https://wallpaperaccess.com/full/7001189.jpg" width="100%"> <br>
+<img src="https://wallpaperaccess.com/full/7001189.jpg" width="100%" height="50%"> <br>
 <h1 align="center">Hi 👋, I'm shamima Yesmin</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
