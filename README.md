@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/dbQwcjb/codepic.jpg" width="100%"> <br>
 <h1 align="center">Hi 👋, I'm shamima Yesmin</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">A Enthusiastic Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamimayesmin&label=Profile%20views&color=0e75b6&style=flat" alt="shamimayesmin" /> </p>
 
