@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Front-end development**
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Redux & TypeScript**
 
 - 🤝 I’m looking for help with **TypeScript**
 
