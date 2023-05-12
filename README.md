@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/dbQwcjb/codepic.jpg" width="100%"> <br>
+<img src="https://blog.hyperiondev.com/wp-content/uploads/2018/10/Blog-Gif.gif" width="100%"> <br>
 <h1 align="center">Hi 👋, I'm shamima Yesmin</h1>
 <h3 align="center">An Enthusiastic Web Developer</h3>
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Front-end development**
 
-- 🌱 I’m currently learning **Redux & TypeScript**
+- 🌱 I’m currently learning **Redux ,TypeScript & mongoose**
 
 - 🤝 I’m looking for help with **TypeScript**
 
