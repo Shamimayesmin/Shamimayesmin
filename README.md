@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/shamima-yesmin10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamimayesmin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/shamimayesmin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shamimayesmin" height="30" width="40" /></a>
-<a href="https://fb.com/shamima.yesmin.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shamimayesmin" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
