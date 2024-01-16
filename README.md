@@ -8,11 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Front-end development**
+- 🔭 **Front-end developer at SolarICT**
 
-- 🌱 I’m currently learning **Redux ,TypeScript & mongoose**
-
-- 🤝 I’m looking for help with **TypeScript**
+- 🌱 I’m currently learning **NextJs,TypeScript & mongoose**
 
 - 💬 Ask me about **JavaScript, React**
 
