@@ -1,5 +1,5 @@
 <img src="https://cdn.dribbble.com/users/2676018/screenshots/12285920/media/1bd5f721ddca471bf35a66385acf13c1.gif" width="100%" height="50%"> <br>
-<h1 align="center">Hi 👋, I'm shamima Yesmin</h1>
+<h1 align="center">Hey 👋 I'm Shamima</h1>
 <h3 align="center">An Enthusiastic Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamimayesmin&label=Profile%20views&color=0e75b6&style=flat" alt="shamimayesmin" /> </p>
