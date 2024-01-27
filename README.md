@@ -2,7 +2,7 @@
 ## 💫 About Me:
 🔭 Front-end developer at SolarICT.<br>🌱 I’m currently learning NextJs, TypeScript & mongoose.<br>💬 Ask me about JavaScript, and React.<br>⚡ Fun fact I love talking!
 
-[![](https://visitcount.itsvg.in/api?id=Shamimayesmin&label=Profile%20Views&color=11&icon=4&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Shamimayesmin&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)
 ## 🌐 Reach me out:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shamima-yesmin10/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@shamimayesmin144) 
 
