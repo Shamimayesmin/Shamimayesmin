@@ -1,6 +1,6 @@
 ### Assalamualaikum, (Hey/Hola ✋ ) I'm Shamima!😊
 ### 💫 About Me:
-🔭 Front-end developer at SolarICT.<br>🌱 I’m currently learning NextJs, TypeScript & mongoose.<br>💬 Ask me about JavaScript, and React.<br>⚡ Fun fact I love talking!
+🔭 Front-end developer at SolarICT.<br>🌱 I’m currently learning SQL, TypeScript & mongoose.<br>💬 Ask me about JavaScript, and React.<br>⚡ Fun fact I love talking!
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shamimayesmin&icon=0&color=0)](https://visitcount.itsvg.in)
