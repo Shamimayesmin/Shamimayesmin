@@ -1,4 +1,4 @@
-### Assalamualaikum, (Hey/Hola ✋ ) I'm Shamima!😊
+### Assalamualaikum, (Hey/Hola Earthlings ✋ ) Myself Shamima Alina!😊
 ### 💫 About Me:
 🔭 Front-end developer at SolarICT.<br>🌱 I’m currently learning SQL, TypeScript & mongoose.<br>💬 Ask me about JavaScript, and React.<br>⚡ Fun fact I love talking!
 
