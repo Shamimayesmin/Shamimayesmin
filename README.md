@@ -1,5 +1,5 @@
-### Assalamualaikum, (Hey/Hola Earthlings ✋ ) Myself Shamima Alina!😊
-an enthusiastic Web Developer on a mission to craft digital experiences that leave a lasting impact.
+### Assalamualaikum, (Hey/Konnichiwa Earthlings ✋ ) Myself Shamima Alina!😊
+an enthusiastic Web Developer on a mission to craft digital experiences that leave a lasting impact.<br>
 Coding is not just my job; it's my creative outlet.
 ### 💫 About Me:
 🔭 Front-end developer at SolarICT.<br>🌱 I’m currently learning SQL, TypeScript & mongoose.<br>💬 Ask me about JavaScript, and React.<br>⚡ Fun fact I love talking!
