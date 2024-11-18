@@ -2,7 +2,7 @@
 an enthusiastic Web Developer on a mission to craft digital experiences that leave a lasting impact.<br>
 Coding is not just my job; it's my creative outlet.
 ### 💫 About Me:
-🔭 MERN Stack Developer at Solar ICT.<br>🌱 I’m currently learning SQL, TypeScript & mongoose.<br>💬 Ask me about JavaScript, and React.<br>⚡ Fun fact I love talking!
+🔭 MERN Stack Developer.<br>🌱 I’m currently learning SQL, TypeScript & mongoose.<br>💬 Ask me about JavaScript, and React.<br>⚡ Fun fact I love talking!
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shamimayesmin&icon=0&color=0)](https://visitcount.itsvg.in)
